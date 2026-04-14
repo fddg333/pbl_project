@@ -1,0 +1,730 @@
+matchId,team1,team2,tossWinner,venue,team1_runs,team2_runs,winner,team1_win
+10,England,South Africa,South Africa,Trent Bridge,111,114,South Africa,0
+100,Pakistan,Australia,Australia,Dubai International Cricket Stadium,176,177,Australia,0
+1000,South Africa,Pakistan,Pakistan,R Premadasa Stadium,133,136,Pakistan,0
+1001,West Indies,Australia,West Indies,"Brisbane Cricket Ground, Woolloongabba",191,164,West Indies,1
+1004,South Africa,India,India,New Wanderers Stadium,126,127,India,0
+1013,West Indies,Pakistan,West Indies,"Beausejour Stadium, Gros Islet",150,143,West Indies,1
+1014,Pakistan,New Zealand,New Zealand,Eden Park,143,146,New Zealand,0
+1018,Sri Lanka,Pakistan,Pakistan,Sheikh Zayed Stadium,141,142,Pakistan,0
+1021,New Zealand,South Africa,South Africa,Seddon Park,173,174,South Africa,0
+1024,South Africa,Australia,Australia,New Wanderers Stadium,204,205,Australia,0
+1025,South Africa,Pakistan,South Africa,The Wanderers Stadium,188,181,South Africa,1
+1027,India,South Africa,South Africa,M.Chinnaswamy Stadium,134,140,South Africa,0
+1028,Pakistan,England,England,"Old Trafford, Manchester",154,155,England,0
+1030,Afghanistan,New Zealand,New Zealand,"Zayed Cricket Stadium, Abu Dhabi",124,125,New Zealand,0
+1031,Sri Lanka,India,India,Shere Bangla National Stadium,138,142,India,0
+1033,Afghanistan,Netherlands,Netherlands,Sharjah Cricket Stadium,90,92,Netherlands,0
+1034,Sri Lanka,Bangladesh,Bangladesh,"R.Premadasa Stadium, Khettarama",214,215,Bangladesh,0
+1035,Bangladesh,Sri Lanka,Sri Lanka,Zahur Ahmed Chowdhury Stadium,120,123,Sri Lanka,0
+1036,Bangladesh,Zimbabwe,Bangladesh,Zahur Ahmed Chowdhury Stadium,175,136,Bangladesh,1
+1037,Sri Lanka,West Indies,Sri Lanka,Pallekele International Cricket Stadium,215,185,Sri Lanka,1
+1041,India,Sri Lanka,Sri Lanka,"Beausejour Stadium, Gros Islet",163,167,Sri Lanka,0
+1042,South Africa,Pakistan,Pakistan,Gaddafi Stadium,164,169,Pakistan,0
+1044,South Africa,Sri Lanka,South Africa,The Wanderers Stadium,198,137,South Africa,1
+1049,New Zealand,Pakistan,Pakistan,Dubai International Cricket Stadium,135,140,Pakistan,0
+1053,Sri Lanka,England,England,"Sophia Gardens, Cardiff",129,130,England,0
+1055,England,New Zealand,England,Jade Stadium,193,143,England,1
+1059,India,South Africa,South Africa,Himachal Pradesh Cricket Association Stadium,199,200,South Africa,0
+1066,South Africa,England,South Africa,SuperSport Park,241,157,South Africa,1
+1068,Sri Lanka,England,Sri Lanka,The Rose Bowl,163,161,Sri Lanka,1
+1074,England,Netherlands,Netherlands,Lord's,162,163,Netherlands,0
+1077,Sri Lanka,India,India,Wankhede Stadium,135,139,India,0
+1078,Ireland,Zimbabwe,Zimbabwe,Bready,171,172,Zimbabwe,0
+1079,Zimbabwe,Bangladesh,Bangladesh,Harare Sports Club,193,194,Bangladesh,0
+1080,Bangladesh,India,India,"R.Premadasa Stadium, Khettarama",166,168,India,0
+1081,Australia,New Zealand,Australia,Sydney Cricket Ground,150,149,Australia,1
+1083,Australia,West Indies,West Indies,"Kensington Oval, Bridgetown",97,102,West Indies,0
+1084,Sri Lanka,West Indies,Sri Lanka,Kennington Oval,158,101,Sri Lanka,1
+1087,West Indies,Australia,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",196,140,West Indies,1
+1089,Zimbabwe,Afghanistan,Afghanistan,Queens Sports Club,153,154,Afghanistan,0
+1090,Bangladesh,New Zealand,New Zealand,McLean Park,141,143,New Zealand,0
+1092,Ireland,Australia,Australia,R Premadasa Stadium,123,125,Australia,0
+1093,Sri Lanka,South Africa,South Africa,Feroz Shah Kotla,120,122,South Africa,0
+1099,Pakistan,Australia,Pakistan,Dubai International Cricket Stadium,147,136,Pakistan,1
+11,South Africa,England,England,Newlands,191,192,England,0
+110,Sri Lanka,India,Sri Lanka,"Vidarbha Cricket Association Stadium, Jamtha",215,186,Sri Lanka,1
+1101,South Africa,Australia,South Africa,New Wanderers Stadium,201,199,South Africa,1
+1106,West Indies,India,India,Shere Bangla National Stadium,129,130,India,0
+111,England,Pakistan,Pakistan,County Ground,144,148,Pakistan,0
+1112,New Zealand,Australia,New Zealand,University Oval,219,215,New Zealand,1
+1118,South Africa,Australia,Australia,SuperSport Park,128,129,Australia,0
+1122,South Africa,New Zealand,South Africa,Lord's,128,127,South Africa,1
+1125,India,West Indies,West Indies,Wankhede Stadium,192,196,West Indies,0
+1126,Bangladesh,West Indies,West Indies,"Warner Park, Basseterre",118,119,West Indies,0
+1128,New Zealand,Bangladesh,New Zealand,Bay Oval,195,148,New Zealand,1
+1129,West Indies,New Zealand,West Indies,"Windsor Park, Roseau",165,126,West Indies,1
+1133,Australia,South Africa,South Africa,Adelaide Oval,144,145,South Africa,0
+1135,South Africa,New Zealand,South Africa,Eden Park,185,107,South Africa,1
+1137,Netherlands,Bangladesh,Bangladesh,Sportpark Westvliet,144,145,Bangladesh,0
+1139,Ireland,India,India,Trent Bridge,112,113,India,0
+1144,New Zealand,Pakistan,New Zealand,Dubai International Cricket Stadium,144,127,New Zealand,1
+1145,India,Australia,Australia,Melbourne Cricket Ground,74,75,Australia,0
+1146,Bangladesh,New Zealand,New Zealand,Seddon Park,78,79,New Zealand,0
+1148,Australia,New Zealand,Australia,Westpac Stadium,208,144,Australia,1
+115,New Zealand,Pakistan,Pakistan,Kennington Oval,99,100,Pakistan,0
+1152,Pakistan,Australia,Australia,Dubai International Cricket Stadium,96,97,Australia,0
+1153,England,West Indies,West Indies,Wankhede Stadium,182,183,West Indies,0
+1157,Afghanistan,Zimbabwe,Afghanistan,Sheikh Zayed Stadium,183,136,Afghanistan,1
+1158,Afghanistan,West Indies,Afghanistan,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,156,127,Afghanistan,1
+1159,Pakistan,Australia,Pakistan,Sheikh Zayed Stadium,155,89,Pakistan,1
+116,India,England,England,Green Park,147,148,England,0
+1162,England,Australia,England,The Rose Bowl,162,160,England,1
+1163,India,New Zealand,New Zealand,Westpac Stadium,149,150,New Zealand,0
+1165,West Indies,Australia,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",145,127,West Indies,1
+1168,Sri Lanka,Zimbabwe,Sri Lanka,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",182,100,Sri Lanka,1
+1171,Pakistan,Sri Lanka,Pakistan,R Premadasa Stadium,172,120,Pakistan,1
+1173,India,Sri Lanka,India,Holkar Cricket Stadium,260,172,India,1
+1174,Sri Lanka,Bangladesh,Bangladesh,"R.Premadasa Stadium, Khettarama",159,160,Bangladesh,0
+1176,India,Zimbabwe,India,Harare Sports Club,138,135,India,1
+1177,Sri Lanka,Pakistan,Pakistan,Lord's,138,139,Pakistan,0
+118,New Zealand,Australia,Australia,Sydney Cricket Ground,117,96,New Zealand,1
+1180,West Indies,Australia,Australia,Sydney Cricket Ground,138,142,Australia,0
+1181,Bangladesh,West Indies,West Indies,"Warner Park, Basseterre",143,93,Bangladesh,1
+1182,South Africa,Pakistan,South Africa,Dubai International Cricket Stadium,150,144,South Africa,1
+1185,England,New Zealand,England,Old Trafford,191,135,England,1
+1186,India,South Africa,India,Moses Mabhida Stadium,168,147,India,1
+1190,Australia,Sri Lanka,Sri Lanka,Melbourne Cricket Ground,168,172,Sri Lanka,0
+1192,Netherlands,Ireland,Ireland,Dubai International Cricket Stadium,114,115,Ireland,0
+1198,Netherlands,England,Netherlands,Zahur Ahmed Chowdhury Stadium,133,88,Netherlands,1
+120,New Zealand,Sri Lanka,New Zealand,R Premadasa Stadium,141,138,New Zealand,1
+1201,Ireland,Afghanistan,Afghanistan,Dubai International Cricket Stadium,71,75,Afghanistan,0
+1202,Bangladesh,Sri Lanka,Sri Lanka,R Premadasa Stadium,155,158,Sri Lanka,0
+1205,Afghanistan,Ireland,Afghanistan,Greater Noida Sports Complex Ground,184,93,Afghanistan,1
+1207,West Indies,India,India,Eden Gardens,109,110,India,0
+1213,Bangladesh,Zimbabwe,Bangladesh,Queens Sports Club,168,134,Bangladesh,1
+1215,Sri Lanka,England,England,"Sophia Gardens, Cardiff",111,108,Sri Lanka,1
+1216,Sri Lanka,West Indies,Sri Lanka,"Zayed Cricket Stadium, Abu Dhabi",189,169,Sri Lanka,1
+1217,Sri Lanka,Pakistan,Pakistan,Dubai International Cricket Stadium,145,146,Pakistan,0
+1219,West Indies,Ireland,West Indies,Providence Stadium,138,68,West Indies,1
+1221,Netherlands,New Zealand,New Zealand,Zahur Ahmed Chowdhury Stadium,151,152,New Zealand,0
+1224,South Africa,England,South Africa,Buffalo Park,177,176,South Africa,1
+1225,New Zealand,England,England,"Beausejour Stadium, Gros Islet",149,153,England,0
+1226,Pakistan,South Africa,South Africa,Gaddafi Stadium,144,145,South Africa,0
+1227,England,New Zealand,England,Eden Park,214,174,England,1
+1228,Bangladesh,Zimbabwe,Zimbabwe,Shere Bangla National Stadium,135,136,Zimbabwe,0
+1229,Pakistan,South Africa,South Africa,Sheikh Zayed Stadium,120,125,South Africa,0
+1231,Pakistan,South Africa,Pakistan,SuperSport Park,168,141,Pakistan,1
+1234,South Africa,England,South Africa,Sharjah Cricket Stadium,189,179,South Africa,1
+1235,Bangladesh,India,India,"R.Premadasa Stadium, Khettarama",139,140,India,0
+1236,Afghanistan,Bangladesh,Afghanistan,"Shere Bangla National Stadium, Mirpur",164,139,Afghanistan,1
+1237,Sri Lanka,India,India,Holkar Cricket Stadium,142,144,India,0
+1238,Pakistan,Zimbabwe,Pakistan,Harare Sports Club,161,136,Pakistan,1
+1240,South Africa,New Zealand,South Africa,Eden Park,165,162,South Africa,1
+1242,New Zealand,Sri Lanka,New Zealand,Central Broward Regional Park Stadium Turf Ground,120,92,New Zealand,1
+1245,New Zealand,England,England,Old Trafford,123,127,England,0
+1249,New Zealand,Pakistan,New Zealand,Seddon Park,185,146,New Zealand,1
+1253,India,Australia,Australia,R Premadasa Stadium,140,141,Australia,0
+1255,Afghanistan,Netherlands,Netherlands,Dubai International Cricket Stadium,128,132,Netherlands,0
+1257,India,Sri Lanka,Sri Lanka,Shere Bangla National Stadium,130,134,Sri Lanka,0
+1258,Zimbabwe,Pakistan,Pakistan,Gaddafi Stadium,172,173,Pakistan,0
+1259,West Indies,Bangladesh,Bangladesh,Shere Bangla National Stadium,132,135,Bangladesh,0
+1260,Sri Lanka,Australia,Australia,Melbourne Cricket Ground,142,145,Australia,0
+1263,India,England,India,Narendra Modi Stadium,185,177,India,1
+1264,India,Pakistan,Pakistan,Dubai International Cricket Stadium,151,152,Pakistan,0
+1265,India,South Africa,India,Newlands,172,165,India,1
+1266,England,West Indies,England,"Warner Park, St Kitts",182,45,England,1
+1270,Bangladesh,England,England,"Zayed Cricket Stadium, Abu Dhabi",124,126,England,0
+1285,Zimbabwe,India,Zimbabwe,Harare Sports Club,170,168,Zimbabwe,1
+1286,Australia,Pakistan,Pakistan,Dubai International Cricket Stadium,89,90,Pakistan,0
+1290,Pakistan,India,India,R Premadasa Stadium,128,129,India,0
+1292,Ireland,Afghanistan,Afghanistan,Dubai International Cricket Stadium,142,147,Afghanistan,0
+1295,New Zealand,England,New Zealand,Kennington Oval,201,196,New Zealand,1
+13,Netherlands,Afghanistan,Afghanistan,Dubai International Cricket Stadium,149,150,Afghanistan,0
+1300,Netherlands,Ireland,Ireland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),182,183,Ireland,0
+1301,Zimbabwe,Pakistan,Pakistan,Harare Sports Club,162,163,Pakistan,0
+1307,Zimbabwe,Pakistan,Zimbabwe,Harare Sports Club,118,99,Zimbabwe,1
+1308,South Africa,Ireland,South Africa,"The Village, Malahide, Dublin",165,132,South Africa,1
+1309,England,South Africa,England,Sophia Gardens,181,162,England,1
+131,India,Sri Lanka,India,"R Premadasa Stadium, Colombo",164,126,India,1
+1310,Sri Lanka,Bangladesh,Sri Lanka,New Wanderers Stadium,147,83,Sri Lanka,1
+1311,India,Pakistan,India,"Sardar Patel Stadium, Motera",192,181,India,1
+1314,India,Ireland,India,"The Village, Malahide",213,70,India,1
+1316,Sri Lanka,South Africa,South Africa,"R Premadasa Stadium, Colombo",120,121,South Africa,0
+1320,West Indies,Ireland,Ireland,"Sabina Park, Kingston",116,117,Ireland,0
+1321,South Africa,Australia,Australia,Stadium Australia,145,146,Australia,0
+1323,Ireland,Afghanistan,Ireland,Sheikh Zayed Stadium,225,157,Ireland,1
+1326,Sri Lanka,Pakistan,Sri Lanka,Gaddafi Stadium,147,134,Sri Lanka,1
+1327,India,South Africa,India,"Beausejour Stadium, Gros Islet",186,172,India,1
+1332,Pakistan,West Indies,Pakistan,National Stadium,203,60,Pakistan,1
+1333,New Zealand,South Africa,South Africa,Kingsmead,151,152,South Africa,0
+1336,Pakistan,Bangladesh,Pakistan,Shere Bangla National Stadium,190,140,Pakistan,1
+1341,England,South Africa,England,"Kensington Oval, Bridgetown",168,129,England,1
+1342,West Indies,Australia,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",199,183,West Indies,1
+1343,India,England,England,Sophia Gardens,148,149,England,0
+1344,South Africa,Bangladesh,South Africa,Mangaung Oval,195,175,South Africa,1
+1346,Australia,India,India,Sydney Cricket Ground,194,195,India,0
+1347,West Indies,Bangladesh,West Indies,Shere Bangla National Stadium,197,179,West Indies,1
+1348,Pakistan,West Indies,Pakistan,Dubai International Cricket Stadium,160,144,Pakistan,1
+1350,Australia,Sri Lanka,Australia,Adelaide Oval,187,146,Australia,1
+1351,Ireland,Afghanistan,Afghanistan,"Rajiv Gandhi International Cricket Stadium, Dehradun",132,136,Afghanistan,0
+1352,Bangladesh,Pakistan,Pakistan,Gaddafi Stadium,136,137,Pakistan,0
+1355,Zimbabwe,New Zealand,New Zealand,Eden Park,159,160,New Zealand,0
+1356,Pakistan,West Indies,West Indies,"Queen's Park Oval, Port of Spain",137,138,West Indies,0
+1358,Pakistan,New Zealand,Pakistan,Dubai International Cricket Stadium,161,112,Pakistan,1
+1359,South Africa,England,South Africa,Newlands,154,135,South Africa,1
+1360,Ireland,Zimbabwe,Ireland,"Bready Cricket Club, Magheramason, Bready",174,110,Ireland,1
+1372,India,Sri Lanka,India,Maharashtra Cricket Association Stadium,201,123,India,1
+1373,Afghanistan,Bangladesh,Bangladesh,Zahur Ahmed Chowdhury Stadium,138,139,Bangladesh,0
+1374,West Indies,Sri Lanka,West Indies,R Premadasa Stadium,162,139,West Indies,1
+1376,Pakistan,India,India,Shere Bangla National Stadium,83,85,India,0
+1377,England,South Africa,England,Kingsmead,204,202,England,1
+1380,New Zealand,Australia,Australia,Eden Park,150,121,New Zealand,1
+1384,Bangladesh,South Africa,South Africa,"Zayed Cricket Stadium, Abu Dhabi",84,86,South Africa,0
+1389,England,Pakistan,Pakistan,Dubai International Cricket Stadium,148,149,Pakistan,0
+139,South Africa,Netherlands,South Africa,Zahur Ahmed Chowdhury Stadium,145,139,South Africa,1
+1392,Pakistan,England,England,"Kensington Oval, Bridgetown",147,151,England,0
+1394,Pakistan,England,England,Sophia Gardens,126,129,England,0
+1395,Afghanistan,Ireland,Ireland,Dubai International Cricket Stadium,152,156,Ireland,0
+1399,Bangladesh,West Indies,Bangladesh,Central Broward Regional Park Stadium Turf Ground,171,159,Bangladesh,1
+1401,Ireland,West Indies,West Indies,"Warner Park, St Kitts",138,140,West Indies,0
+1402,Bangladesh,Ireland,Ireland,Trent Bridge,137,138,Ireland,0
+1405,Zimbabwe,Pakistan,Pakistan,Rawalpindi Cricket Stadium,129,130,Pakistan,0
+1406,England,India,England,Lord's,153,150,England,1
+1407,England,West Indies,West Indies,"Kensington Oval, Bridgetown",152,155,West Indies,0
+1408,South Africa,Bangladesh,South Africa,New Wanderers Stadium,118,109,South Africa,1
+1411,South Africa,West Indies,West Indies,"National Cricket Stadium, St George's, Grenada",160,161,West Indies,0
+1413,England,Sri Lanka,England,Feroz Shah Kotla,171,161,England,1
+1414,Zimbabwe,South Africa,South Africa,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",93,94,South Africa,0
+1415,Sri Lanka,West Indies,Sri Lanka,"Coolidge Cricket Ground, Antigua",160,117,Sri Lanka,1
+1422,Pakistan,New Zealand,Pakistan,Sheikh Zayed Stadium,148,146,Pakistan,1
+1425,Pakistan,Bangladesh,Pakistan,Gymkhana Club Ground,191,161,Pakistan,1
+1426,Australia,Zimbabwe,Zimbabwe,Newlands,138,139,Zimbabwe,0
+1429,South Africa,Sri Lanka,South Africa,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",145,123,South Africa,1
+1430,New Zealand,Bangladesh,New Zealand,"Shere Bangla National Stadium, Mirpur",161,134,New Zealand,1
+1435,Australia,New Zealand,Australia,Westpac Stadium,156,106,Australia,1
+1436,Sri Lanka,England,England,Zahur Ahmed Chowdhury Stadium,189,190,England,0
+144,Sri Lanka,Bangladesh,Sri Lanka,Pallekele International Cricket Stadium,198,181,Sri Lanka,1
+1443,South Africa,Sri Lanka,Sri Lanka,"R.Premadasa Stadium, Khettarama",98,99,Sri Lanka,0
+1444,Pakistan,Sri Lanka,Sri Lanka,Maple Leaf North-West Ground,132,133,Sri Lanka,0
+1445,Sri Lanka,Australia,Sri Lanka,Pallekele International Cricket Stadium,198,163,Sri Lanka,1
+1446,South Africa,West Indies,South Africa,"Sir Vivian Richards Stadium, North Sound",120,119,South Africa,1
+1447,Australia,India,India,Sydney Cricket Ground,197,200,India,0
+1448,England,Australia,Australia,Melbourne Cricket Ground,137,138,Australia,0
+1449,India,West Indies,West Indies,Lord's,153,156,West Indies,0
+1450,West Indies,India,India,"Providence Stadium, Guyana",146,150,India,0
+1453,Afghanistan,Ireland,Afghanistan,Greater Noida Sports Complex Ground,184,163,Afghanistan,1
+1457,Ireland,Netherlands,Netherlands,Sylhet Stadium,189,193,Netherlands,0
+1458,Pakistan,New Zealand,Pakistan,Dubai International Cricket Stadium,153,146,Pakistan,1
+1459,New Zealand,England,New Zealand,Saxton Oval,180,166,New Zealand,1
+1463,Australia,England,Australia,The Rose Bowl,248,209,Australia,1
+1464,Australia,India,Australia,Sydney Cricket Ground,186,174,Australia,1
+1467,West Indies,Afghanistan,West Indies,"Warner Park, Basseterre",112,93,West Indies,1
+1468,West Indies,New Zealand,New Zealand,Eden Park,180,179,West Indies,1
+1469,England,India,India,Old Trafford,159,163,India,0
+1475,Sri Lanka,Pakistan,Pakistan,Sheikh Zayed Stadium,102,103,Pakistan,0
+1476,South Africa,West Indies,West Indies,"Vidarbha Cricket Association Stadium, Jamtha",122,123,West Indies,0
+1477,South Africa,West Indies,West Indies,Newlands,165,168,West Indies,0
+1478,South Africa,Bangladesh,South Africa,Shere Bangla National Stadium,169,138,South Africa,1
+148,Afghanistan,Ireland,Afghanistan,"Bready Cricket Club, Magheramason",160,79,Afghanistan,1
+1480,Australia,India,India,Melbourne Cricket Ground,131,135,India,0
+1481,India,Sri Lanka,India,JSCA International Stadium Complex,196,127,India,1
+1483,Australia,South Africa,Australia,Newlands,193,96,Australia,1
+1485,New Zealand,Pakistan,New Zealand,"Kensington Oval, Bridgetown",133,132,New Zealand,1
+1486,Pakistan,South Africa,Pakistan,SuperSport Park,195,100,Pakistan,1
+1487,West Indies,South Africa,South Africa,New Wanderers Stadium,131,134,South Africa,0
+1489,West Indies,England,West Indies,Kennington Oval,113,88,West Indies,1
+149,Netherlands,Zimbabwe,Netherlands,Hazelaarweg,199,150,Netherlands,1
+1491,Pakistan,India,India,Eden Gardens,118,119,India,0
+1493,England,West Indies,West Indies,Providence Stadium,191,60,England,1
+1495,India,Sri Lanka,Sri Lanka,"R Premadasa Stadium, Colombo",81,82,Sri Lanka,0
+1499,India,Australia,Australia,Barsapara Cricket Stadium,118,122,Australia,0
+150,West Indies,Bangladesh,West Indies,Sharjah Cricket Stadium,142,139,West Indies,1
+1501,Pakistan,England,England,Old Trafford,195,199,England,0
+1502,India,Australia,India,Adelaide Oval,188,151,India,1
+1503,South Africa,Sri Lanka,Sri Lanka,New Wanderers Stadium,113,119,Sri Lanka,0
+1504,Bangladesh,Zimbabwe,Bangladesh,"Shere Bangla National Stadium, Mirpur",200,152,Bangladesh,1
+1505,Sri Lanka,Pakistan,Pakistan,Maple Leaf North-West Ground,137,141,Pakistan,0
+1508,South Africa,New Zealand,New Zealand,New Wanderers Stadium,133,134,New Zealand,0
+1510,New Zealand,South Africa,South Africa,New Wanderers Stadium,129,131,South Africa,0
+1511,India,South Africa,India,Kingsmead,153,116,India,1
+1512,Pakistan,Zimbabwe,Pakistan,Harare Sports Club,149,138,Pakistan,1
+1513,South Africa,Ireland,South Africa,"Civil Service Cricket Club, Stormont, Belfast",159,117,South Africa,1
+1516,South Africa,Zimbabwe,South Africa,De Beers Diamond Oval,194,186,South Africa,1
+1519,Australia,Bangladesh,Bangladesh,"Shere Bangla National Stadium, Mirpur",121,123,Bangladesh,0
+1520,Netherlands,Ireland,Netherlands,Dubai International Cricket Stadium,158,137,Netherlands,1
+1524,Australia,England,England,"Kensington Oval, Bridgetown",147,148,England,0
+1525,Sri Lanka,Pakistan,Sri Lanka,R Premadasa Stadium,139,123,Sri Lanka,1
+1526,West Indies,Australia,Australia,R Premadasa Stadium,191,100,West Indies,1
+1527,South Africa,West Indies,South Africa,"Sir Vivian Richards Stadium, North Sound",136,123,South Africa,1
+153,India,West Indies,India,"Queen's Park Oval, Port of Spain",159,143,India,1
+1531,New Zealand,India,India,Eden Park,158,162,India,0
+1537,Sri Lanka,South Africa,Sri Lanka,Zahur Ahmed Chowdhury Stadium,165,160,Sri Lanka,1
+154,Bangladesh,Afghanistan,Afghanistan,Rajiv Gandhi International Cricket Stadium,134,135,Afghanistan,0
+1541,New Zealand,Bangladesh,New Zealand,Eden Park,141,76,New Zealand,1
+1543,Sri Lanka,South Africa,South Africa,Sharjah Cricket Stadium,142,146,South Africa,0
+1546,Pakistan,New Zealand,Pakistan,Bay Oval,181,163,Pakistan,1
+1547,New Zealand,Pakistan,New Zealand,Westpac Stadium,196,101,New Zealand,1
+1550,New Zealand,Sri Lanka,New Zealand,Eden Park,179,144,New Zealand,1
+1551,South Africa,Pakistan,Pakistan,"SuperSport Park, Centurion",144,149,Pakistan,0
+1552,West Indies,Bangladesh,West Indies,Shere Bangla National Stadium,171,98,West Indies,1
+1556,Sri Lanka,Bangladesh,Sri Lanka,Sylhet International Cricket Stadium,210,135,Sri Lanka,1
+156,Pakistan,India,India,Shere Bangla National Stadium,130,131,India,0
+1560,New Zealand,West Indies,New Zealand,Saxton Oval,187,140,New Zealand,1
+1561,Pakistan,New Zealand,Pakistan,Pallekele International Cricket Stadium,177,164,Pakistan,1
+1564,England,Sri Lanka,England,"R.Premadasa Stadium, Khettarama",187,157,England,1
+1566,India,Australia,Australia,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,126,127,Australia,0
+1569,India,West Indies,India,Wankhede Stadium,240,173,India,1
+157,England,Zimbabwe,England,Newlands,188,138,England,1
+1570,India,England,India,"Vidarbha Cricket Association Stadium, Jamtha",144,139,India,1
+1575,India,Zimbabwe,India,Harare Sports Club,178,124,India,1
+1577,New Zealand,Sri Lanka,New Zealand,R Premadasa Stadium,170,148,New Zealand,1
+1583,India,England,India,R Premadasa Stadium,170,80,India,1
+1584,Sri Lanka,India,India,"R.Premadasa Stadium, Khettarama",170,174,India,0
+1587,South Africa,India,India,Shere Bangla National Stadium,172,176,India,0
+1589,Zimbabwe,Pakistan,Pakistan,Gaddafi Stadium,175,176,Pakistan,0
+1591,England,West Indies,West Indies,"Queen's Park Oval, Port of Spain",121,123,West Indies,0
+1592,Afghanistan,Zimbabwe,Afghanistan,Sharjah Cricket Stadium,215,134,Afghanistan,1
+1593,Sri Lanka,Australia,Sri Lanka,Melbourne Cricket Ground,161,119,Sri Lanka,1
+1595,West Indies,England,West Indies,Riverside Ground,176,155,West Indies,1
+1598,Bangladesh,Sri Lanka,Sri Lanka,"Shere Bangla National Stadium, Mirpur",193,194,Sri Lanka,0
+1601,New Zealand,Bangladesh,New Zealand,Seddon Park,210,144,New Zealand,1
+1605,Zimbabwe,Bangladesh,Zimbabwe,Sheikh Abu Naser Stadium,187,156,Zimbabwe,1
+1607,New Zealand,Bangladesh,New Zealand,McLean Park,173,142,New Zealand,1
+1608,Australia,England,England,Dubai International Cricket Stadium,125,126,England,0
+1610,England,Australia,England,Sophia Gardens,182,177,England,1
+1612,Pakistan,New Zealand,Pakistan,Eden Park,201,153,Pakistan,1
+1617,West Indies,Pakistan,Pakistan,"Kensington Oval, Bridgetown",111,115,Pakistan,0
+162,Zimbabwe,South Africa,South Africa,Senwes Park,132,135,South Africa,0
+1623,New Zealand,India,New Zealand,Westpac Stadium,219,139,New Zealand,1
+1630,Pakistan,Australia,Australia,"Beausejour Stadium, Gros Islet",191,197,Australia,0
+1631,West Indies,Australia,West Indies,R Premadasa Stadium,205,131,West Indies,1
+1633,Australia,Sri Lanka,Australia,Pallekele International Cricket Stadium,263,178,Australia,1
+1634,South Africa,Sri Lanka,South Africa,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",78,46,South Africa,1
+1641,Bangladesh,West Indies,West Indies,Sylhet International Cricket Stadium,129,130,West Indies,0
+1645,Bangladesh,Australia,Bangladesh,"Shere Bangla National Stadium, Mirpur",131,108,Bangladesh,1
+1648,New Zealand,Pakistan,Pakistan,Newlands,143,147,Pakistan,0
+1649,South Africa,Pakistan,South Africa,New Wanderers Stadium,153,60,South Africa,1
+165,Netherlands,Ireland,Ireland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),167,169,Ireland,0
+1650,South Africa,Ireland,South Africa,"Civil Service Cricket Club, Stormont, Belfast",189,140,South Africa,1
+1651,South Africa,England,South Africa,County Ground,174,171,South Africa,1
+1653,West Indies,England,West Indies,Kennington Oval,208,193,West Indies,1
+1658,Zimbabwe,Bangladesh,Bangladesh,"Shere Bangla National Stadium, Mirpur",119,120,Bangladesh,0
+1661,West Indies,Pakistan,West Indies,Shere Bangla National Stadium,166,82,West Indies,1
+1665,Zimbabwe,New Zealand,New Zealand,Providence Stadium,84,36,Zimbabwe,1
+1669,West Indies,England,England,Kennington Oval,125,128,England,0
+167,Bangladesh,India,India,Shere Bangla National Stadium,120,122,India,0
+1673,Australia,India,Australia,Stadium Australia,171,140,Australia,1
+1676,Sri Lanka,West Indies,Sri Lanka,"Kensington Oval, Bridgetown",195,138,Sri Lanka,1
+1680,England,Australia,England,Edgbaston,221,193,England,1
+1681,Afghanistan,West Indies,West Indies,"Warner Park, Basseterre",110,114,West Indies,0
+1682,New Zealand,West Indies,New Zealand,Bay Oval,238,166,New Zealand,1
+1684,Pakistan,Bangladesh,Bangladesh,Shere Bangla National Stadium,141,143,Bangladesh,0
+1685,West Indies,Pakistan,Pakistan,"Arnos Vale Ground, Kingstown",152,158,Pakistan,0
+1688,Afghanistan,Ireland,Afghanistan,"Rajiv Gandhi International Cricket Stadium, Dehradun",210,178,Afghanistan,1
+1689,New Zealand,England,New Zealand,Westpac Stadium,176,155,New Zealand,1
+169,Sri Lanka,England,England,"Beausejour Stadium, Gros Islet",128,132,England,0
+1690,England,Australia,Australia,Newlands,135,136,Australia,0
+1692,South Africa,Australia,Australia,Newlands,146,147,Australia,0
+1693,Ireland,Afghanistan,Afghanistan,Greater Noida Sports Complex Ground,172,133,Ireland,1
+1695,England,Pakistan,England,Dubai International Cricket Stadium,172,169,England,1
+1699,West Indies,India,West Indies,Central Broward Regional Park Stadium Turf Ground,245,244,West Indies,1
+170,Pakistan,Australia,Pakistan,R Premadasa Stadium,149,117,Pakistan,1
+1700,West Indies,New Zealand,New Zealand,"Windsor Park, Roseau",132,117,West Indies,1
+1703,West Indies,New Zealand,New Zealand,Westpac Stadium,159,163,New Zealand,0
+1704,Sri Lanka,Australia,Sri Lanka,Pallekele International Cricket Stadium,157,149,Sri Lanka,1
+1705,New Zealand,England,New Zealand,Westpac Stadium,196,184,New Zealand,1
+1706,South Africa,West Indies,South Africa,Kennington Oval,183,163,South Africa,1
+1707,India,West Indies,India,Central Broward Regional Park Stadium Turf Ground,167,98,India,1
+1709,South Africa,Zimbabwe,South Africa,Buffalo Park,160,126,South Africa,1
+1710,Afghanistan,Netherlands,Afghanistan,"Grange Cricket Club Ground, Raeburn Place",162,130,Afghanistan,1
+1711,Zimbabwe,Bangladesh,Bangladesh,Sheikh Abu Naser Stadium,163,166,Bangladesh,0
+1713,South Africa,Pakistan,Pakistan,"The Wanderers Stadium, Johannesburg",188,189,Pakistan,0
+1715,Afghanistan,Zimbabwe,Afghanistan,"Vidarbha Cricket Association Stadium, Jamtha",186,127,Afghanistan,1
+1717,New Zealand,Bangladesh,Bangladesh,"Shere Bangla National Stadium, Mirpur",93,96,Bangladesh,0
+1724,Australia,New Zealand,New Zealand,Sky Stadium,142,143,New Zealand,0
+1726,Pakistan,Zimbabwe,Pakistan,Harare Sports Club,141,136,Pakistan,1
+1727,West Indies,Bangladesh,Bangladesh,New Wanderers Stadium,164,165,Bangladesh,0
+173,Bangladesh,Australia,Australia,"Shere Bangla National Stadium, Mirpur",104,105,Australia,0
+1730,New Zealand,Australia,New Zealand,Himachal Pradesh Cricket Association Stadium,142,134,New Zealand,1
+1731,South Africa,Sri Lanka,South Africa,R Premadasa Stadium,115,103,South Africa,1
+1732,Sri Lanka,West Indies,West Indies,"Coolidge Cricket Ground, Antigua",131,134,West Indies,0
+1735,South Africa,West Indies,West Indies,St George's Park,58,60,West Indies,0
+1739,Pakistan,Australia,Pakistan,Dubai International Cricket Stadium,150,117,Pakistan,1
+1740,West Indies,England,West Indies,"Kensington Oval, Bridgetown",170,143,West Indies,1
+1742,Australia,India,India,Brabourne Stadium,166,167,India,0
+1743,Australia,England,Australia,Stadium Australia,195,111,Australia,1
+1745,Sri Lanka,India,India,R Premadasa Stadium,171,174,India,0
+1747,Pakistan,Bangladesh,Pakistan,Shere Bangla National Stadium,135,85,Pakistan,1
+1748,Zimbabwe,Afghanistan,Afghanistan,Sharjah Cricket Stadium,120,121,Afghanistan,0
+175,Pakistan,Zimbabwe,Pakistan,Harare Sports Club,182,108,Pakistan,1
+1750,India,Afghanistan,India,R Premadasa Stadium,159,136,India,1
+1754,England,West Indies,West Indies,Kennington Oval,161,82,England,1
+1756,Bangladesh,West Indies,Bangladesh,Central Broward Regional Park Stadium Turf Ground,184,135,Bangladesh,1
+1758,England,Pakistan,England,Kennington Oval,185,137,England,1
+1760,England,South Africa,England,New Wanderers Stadium,202,127,England,1
+1765,Bangladesh,Australia,Bangladesh,"Shere Bangla National Stadium, Mirpur",122,62,Bangladesh,1
+1768,Pakistan,England,Pakistan,Dubai International Cricket Stadium,144,136,Pakistan,1
+177,Bangladesh,Netherlands,Netherlands,Sportpark Westvliet,128,131,Netherlands,0
+1771,Sri Lanka,New Zealand,Sri Lanka,Zahur Ahmed Chowdhury Stadium,119,60,Sri Lanka,1
+1772,Australia,South Africa,Australia,"Brisbane Cricket Ground, Woolloongabba",209,114,Australia,1
+1774,Australia,Bangladesh,Australia,"Kensington Oval, Bridgetown",141,114,Australia,1
+1777,South Africa,Sri Lanka,South Africa,SuperSport Park,180,164,South Africa,1
+1778,England,Sri Lanka,England,Sharjah Cricket Stadium,163,137,England,1
+1779,Sri Lanka,Pakistan,Sri Lanka,Dubai International Cricket Stadium,211,187,Sri Lanka,1
+1781,Bangladesh,India,India,Shere Bangla National Stadium,138,141,India,0
+1783,South Africa,England,England,SuperSport Park,222,226,England,0
+1790,Afghanistan,Zimbabwe,Zimbabwe,Zahur Ahmed Chowdhury Stadium,155,156,Zimbabwe,0
+1795,Pakistan,New Zealand,New Zealand,Eden Park,153,156,New Zealand,0
+180,Ireland,West Indies,Ireland,"National Cricket Stadium, Grenada",208,204,Ireland,1
+181,Pakistan,Netherlands,Pakistan,Lord's,175,93,Pakistan,1
+182,Sri Lanka,Australia,Australia,Newlands,101,102,Australia,0
+183,Australia,England,Australia,Melbourne Cricket Ground,147,143,Australia,1
+187,South Africa,Sri Lanka,Sri Lanka,Newlands,169,170,Sri Lanka,0
+19,Pakistan,South Africa,South Africa,"The Wanderers Stadium, Johannesburg",140,141,South Africa,0
+191,West Indies,India,India,"Rajiv Gandhi International Stadium, Uppal",207,209,India,0
+192,South Africa,Afghanistan,South Africa,"Kensington Oval, Bridgetown",139,80,South Africa,1
+195,South Africa,Afghanistan,South Africa,Wankhede Stadium,209,172,South Africa,1
+196,Australia,Sri Lanka,Sri Lanka,Stadium Australia,137,139,Sri Lanka,0
+204,Australia,India,Australia,"Kensington Oval, Bridgetown",184,135,Australia,1
+206,Pakistan,West Indies,Pakistan,"Providence Stadium, Guyana",157,150,Pakistan,1
+207,Australia,Pakistan,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali",193,172,Australia,1
+208,South Africa,West Indies,West Indies,New Wanderers Stadium,231,236,West Indies,0
+209,Pakistan,Sri Lanka,Pakistan,Gaddafi Stadium,180,144,Pakistan,1
+210,Pakistan,Bangladesh,Pakistan,National Stadium,203,101,Pakistan,1
+213,Pakistan,England,England,Sophia Gardens,173,175,England,0
+217,Zimbabwe,Ireland,Zimbabwe,"Castle Avenue, Dublin",117,114,Zimbabwe,1
+221,New Zealand,England,England,Hagley Oval,153,154,England,0
+222,New Zealand,Sri Lanka,Sri Lanka,New Wanderers Stadium,164,168,Sri Lanka,0
+223,Australia,New Zealand,Australia,Eden Park,214,170,Australia,1
+225,South Africa,India,South Africa,New Wanderers Stadium,219,71,South Africa,1
+227,Sri Lanka,Pakistan,Pakistan,Sheikh Zayed Stadium,124,125,Pakistan,0
+229,Pakistan,West Indies,Pakistan,"Arnos Vale Ground, Kingstown",135,124,Pakistan,1
+234,South Africa,New Zealand,South Africa,"Kensington Oval, Bridgetown",170,157,South Africa,1
+238,Pakistan,Zimbabwe,Pakistan,Harare Sports Club,136,123,Pakistan,1
+24,New Zealand,Australia,Australia,Westpac Stadium,118,119,Australia,0
+241,New Zealand,India,New Zealand,"MA Chidambaram Stadium, Chepauk",167,166,New Zealand,1
+242,Sri Lanka,Zimbabwe,Sri Lanka,Providence Stadium,173,29,Sri Lanka,1
+243,Australia,England,Australia,Sydney Cricket Ground,221,144,Australia,1
+248,Pakistan,England,Pakistan,Old Trafford,190,185,Pakistan,1
+249,Australia,India,India,JSCA International Stadium Complex,118,49,Australia,1
+25,New Zealand,Bangladesh,New Zealand,"Shere Bangla National Stadium, Mirpur",128,76,New Zealand,1
+252,India,West Indies,West Indies,Greenfield International Stadium,170,173,West Indies,0
+254,South Africa,England,England,The Rose Bowl,142,143,England,0
+256,Australia,Sri Lanka,Sri Lanka,Trent Bridge,159,160,Sri Lanka,0
+257,Zimbabwe,Bangladesh,Zimbabwe,Sheikh Abu Naser Stadium,180,162,Zimbabwe,1
+258,Bangladesh,Pakistan,Pakistan,Newlands,140,141,Pakistan,0
+259,Australia,England,England,Adelaide Oval,157,158,England,0
+261,Pakistan,England,England,Sophia Gardens,89,90,England,0
+262,Bangladesh,Australia,Bangladesh,"Shere Bangla National Stadium, Mirpur",127,117,Bangladesh,1
+263,Sri Lanka,Ireland,Sri Lanka,"Zayed Cricket Stadium, Abu Dhabi",171,101,Sri Lanka,1
+269,New Zealand,Sri Lanka,Sri Lanka,Pallekele International Cricket Stadium,142,143,Sri Lanka,0
+270,Zimbabwe,South Africa,South Africa,OUTsurance Oval,168,169,South Africa,0
+273,Ireland,Netherlands,Netherlands,"The Village, Malahide",128,129,Netherlands,0
+274,West Indies,Australia,Australia,"Beausejour Stadium, Gros Islet",105,109,Australia,0
+276,India,New Zealand,India,Arun Jaitley Stadium,202,149,India,1
+277,England,Pakistan,England,Dubai International Cricket Stadium,160,146,England,1
+278,England,West Indies,England,"Kensington Oval, Bridgetown",165,160,England,1
+279,India,South Africa,India,R Premadasa Stadium,152,151,India,1
+286,Australia,India,India,Saurashtra Cricket Association Stadium,201,202,India,0
+289,South Africa,England,England,Wankhede Stadium,229,230,England,0
+291,Ireland,Netherlands,Netherlands,"The Village, Malahide",181,183,Netherlands,0
+294,Sri Lanka,England,England,The Rose Bowl,140,144,England,0
+295,Sri Lanka,West Indies,West Indies,"Coolidge Cricket Ground, Antigua",131,134,West Indies,0
+296,Afghanistan,Pakistan,Pakistan,Dubai International Cricket Stadium,147,148,Pakistan,0
+305,Netherlands,Sri Lanka,Sri Lanka,Sharjah Cricket Stadium,44,45,Sri Lanka,0
+309,Afghanistan,Zimbabwe,Afghanistan,Sharjah Cricket Stadium,187,182,Afghanistan,1
+311,Sri Lanka,West Indies,Sri Lanka,Shere Bangla National Stadium,160,80,Sri Lanka,1
+315,Bangladesh,Pakistan,Pakistan,Pallekele International Cricket Stadium,175,178,Pakistan,0
+318,India,Sri Lanka,Sri Lanka,"R Premadasa Stadium, Colombo",132,133,Sri Lanka,0
+32,Pakistan,Zimbabwe,Pakistan,Harare Sports Club,198,113,Pakistan,1
+320,Sri Lanka,Ireland,Sri Lanka,Lord's,144,135,Sri Lanka,1
+323,England,Australia,Australia,Bellerive Oval,155,161,Australia,0
+334,Sri Lanka,India,India,"Punjab Cricket Association Stadium, Mohali",206,211,India,0
+335,England,Australia,England,Riverside Ground,195,168,England,1
+34,Pakistan,New Zealand,Pakistan,Dubai International Cricket Stadium,166,119,Pakistan,1
+340,Afghanistan,West Indies,West Indies,"Warner Park, Basseterre",146,147,West Indies,0
+342,South Africa,Sri Lanka,Sri Lanka,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",163,164,Sri Lanka,0
+345,England,New Zealand,England,McLean Park,241,165,England,1
+348,England,New Zealand,New Zealand,"Zayed Cricket Stadium, Abu Dhabi",166,167,New Zealand,0
+35,Pakistan,New Zealand,New Zealand,Westpac Stadium,105,106,New Zealand,0
+353,South Africa,Australia,South Africa,St George's Park,158,146,South Africa,1
+356,Australia,West Indies,West Indies,Shere Bangla National Stadium,178,179,West Indies,0
+359,India,Bangladesh,India,"Vidarbha Cricket Association Stadium, Jamtha",174,144,India,1
+361,England,New Zealand,England,Seddon Park,194,192,England,1
+364,Bangladesh,Australia,Australia,Shere Bangla National Stadium,153,158,Australia,0
+368,England,Pakistan,England,Sheikh Zayed Stadium,129,124,England,1
+369,Pakistan,England,England,Dubai International Cricket Stadium,129,130,England,0
+375,West Indies,Bangladesh,West Indies,"Shere Bangla National Stadium, Mirpur",190,140,West Indies,1
+378,India,Pakistan,India,New Wanderers Stadium,157,152,India,1
+379,India,Bangladesh,India,Trent Bridge,180,155,India,1
+380,Pakistan,South Africa,Pakistan,Newlands,176,170,Pakistan,1
+382,India,Sri Lanka,India,Pallekele International Cricket Stadium,155,116,India,1
+383,Sri Lanka,New Zealand,Sri Lanka,Trent Bridge,158,110,Sri Lanka,1
+384,New Zealand,India,New Zealand,Seddon Park,212,208,New Zealand,1
+385,Zimbabwe,Pakistan,Pakistan,Rawalpindi Cricket Stadium,134,137,Pakistan,0
+387,Zimbabwe,India,Zimbabwe,Harare Sports Club,145,135,Zimbabwe,1
+389,Sri Lanka,Australia,Australia,R Premadasa Stadium,128,130,Australia,0
+39,Pakistan,New Zealand,New Zealand,Seddon Park,163,164,New Zealand,0
+390,New Zealand,Bangladesh,New Zealand,Pallekele International Cricket Stadium,191,132,New Zealand,1
+391,Sri Lanka,England,Sri Lanka,Kennington Oval,183,174,Sri Lanka,1
+394,South Africa,West Indies,South Africa,"National Cricket Stadium, St George's, Grenada",166,150,South Africa,1
+396,Australia,England,Australia,Bellerive Oval,213,200,Australia,1
+397,New Zealand,Pakistan,Pakistan,Dubai International Cricket Stadium,153,154,Pakistan,0
+399,New Zealand,Pakistan,Pakistan,McLean Park,173,177,Pakistan,0
+402,India,New Zealand,New Zealand,Dubai International Cricket Stadium,110,111,New Zealand,0
+406,Afghanistan,Sri Lanka,Sri Lanka,Eden Gardens,153,155,Sri Lanka,0
+413,Bangladesh,New Zealand,Bangladesh,"Shere Bangla National Stadium, Mirpur",141,137,Bangladesh,1
+418,South Africa,Pakistan,Pakistan,"SuperSport Park, Centurion",203,205,Pakistan,0
+419,Australia,Sri Lanka,Sri Lanka,Western Australia Cricket Association Ground,133,135,Sri Lanka,0
+42,Australia,India,India,"Punjab Cricket Association IS Bindra Stadium, Mohali",160,161,India,0
+420,Bangladesh,Zimbabwe,Bangladesh,Sheikh Abu Naser Stadium,167,125,Bangladesh,1
+421,Zimbabwe,India,India,Harare Sports Club,111,112,India,0
+423,England,South Africa,South Africa,Riverside Ground,118,119,South Africa,0
+425,Sri Lanka,Pakistan,Sri Lanka,Lord's,150,131,Sri Lanka,1
+426,New Zealand,West Indies,New Zealand,Eden Park,189,108,New Zealand,1
+427,Pakistan,South Africa,South Africa,Sheikh Zayed Stadium,119,120,South Africa,0
+43,Afghanistan,Zimbabwe,Afghanistan,Sharjah Cricket Stadium,158,141,Afghanistan,1
+431,India,Australia,Australia,M.Chinnaswamy Stadium,190,194,Australia,0
+437,England,Sri Lanka,Sri Lanka,County Ground,136,137,Sri Lanka,0
+44,England,Afghanistan,England,R Premadasa Stadium,196,80,England,1
+446,India,Sri Lanka,India,Barabati Stadium,180,87,India,1
+457,New Zealand,Zimbabwe,New Zealand,Harare Sports Club,187,154,New Zealand,1
+461,South Africa,Australia,Australia,"Zayed Cricket Stadium, Abu Dhabi",118,121,Australia,0
+462,India,England,India,Narendra Modi Stadium,224,188,India,1
+463,West Indies,England,England,"Darren Sammy National Cricket Stadium, St Lucia",160,161,England,0
+464,Sri Lanka,Australia,Australia,"Brisbane Cricket Ground, Woolloongabba",117,118,Australia,0
+465,New Zealand,South Africa,New Zealand,SuperSport Park,177,145,New Zealand,1
+467,South Africa,New Zealand,South Africa,Zahur Ahmed Chowdhury Stadium,170,168,South Africa,1
+469,Pakistan,New Zealand,Pakistan,Eden Park,171,155,Pakistan,1
+477,Pakistan,Australia,Pakistan,Shere Bangla National Stadium,191,175,Pakistan,1
+478,India,England,England,Eden Gardens,120,121,England,0
+482,Australia,West Indies,Australia,Bellerive Oval,179,141,Australia,1
+485,Sri Lanka,Pakistan,Pakistan,Shere Bangla National Stadium,150,151,Pakistan,0
+486,England,Pakistan,Pakistan,Old Trafford,135,139,Pakistan,0
+489,New Zealand,England,England,Feroz Shah Kotla,153,159,England,0
+49,England,Australia,England,The Rose Bowl,179,79,England,1
+491,Zimbabwe,Afghanistan,Afghanistan,Queens Sports Club,190,191,Afghanistan,0
+493,Australia,West Indies,Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",189,185,Australia,1
+495,New Zealand,India,New Zealand,Saurashtra Cricket Association Stadium,196,156,New Zealand,1
+499,Australia,Zimbabwe,Australia,Harare Sports Club,229,129,Australia,1
+5,West Indies,India,India,Central Broward Regional Park Stadium Turf Ground,95,98,India,0
+507,New Zealand,South Africa,South Africa,Kingsmead,153,158,South Africa,0
+509,Zimbabwe,West Indies,Zimbabwe,"Queen's Park Oval, Port of Spain",105,79,Zimbabwe,1
+51,Ireland,Afghanistan,Afghanistan,Sheikh Zayed Stadium,125,126,Afghanistan,0
+514,West Indies,Australia,Australia,"Zayed Cricket Stadium, Abu Dhabi",157,161,Australia,0
+515,England,Sri Lanka,England,"The Rose Bowl, Southampton",180,91,England,1
+516,South Africa,Australia,Australia,Newlands,178,181,Australia,0
+518,Sri Lanka,South Africa,South Africa,"R Premadasa Stadium, Colombo",103,105,South Africa,0
+52,South Africa,West Indies,South Africa,"National Cricket Stadium, St George's, Grenada",167,166,South Africa,1
+521,India,South Africa,South Africa,Barabati Stadium,92,96,South Africa,0
+524,Sri Lanka,West Indies,West Indies,M Chinnaswamy Stadium,122,127,West Indies,0
+525,Pakistan,Bangladesh,Bangladesh,Shere Bangla National Stadium,129,131,Bangladesh,0
+527,India,Sri Lanka,Sri Lanka,"R.Premadasa Stadium, Khettarama",174,175,Sri Lanka,0
+528,New Zealand,England,New Zealand,Seddon Park,192,137,New Zealand,1
+53,West Indies,Sri Lanka,West Indies,R Premadasa Stadium,137,101,West Indies,1
+530,Australia,South Africa,South Africa,Kingsmead,157,158,South Africa,0
+532,Bangladesh,Sri Lanka,Bangladesh,R Premadasa Stadium,176,131,Bangladesh,1
+533,Pakistan,Sri Lanka,Pakistan,R Premadasa Stadium,175,146,Pakistan,1
+536,Pakistan,South Africa,Pakistan,"Beausejour Stadium, Gros Islet",148,137,Pakistan,1
+537,England,South Africa,South Africa,New Wanderers Stadium,171,172,South Africa,0
+538,India,Bangladesh,India,M Chinnaswamy Stadium,146,145,India,1
+539,Sri Lanka,New Zealand,New Zealand,Providence Stadium,135,139,New Zealand,0
+54,England,Australia,Australia,Melbourne Cricket Ground,130,131,Australia,0
+543,England,India,England,Edgbaston,180,177,England,1
+547,Australia,India,India,Sydney Cricket Ground,164,168,India,0
+548,Sri Lanka,New Zealand,Sri Lanka,Pallekele International Cricket Stadium,125,88,Sri Lanka,1
+55,Pakistan,Ireland,Pakistan,Kennington Oval,159,120,Pakistan,1
+550,Bangladesh,South Africa,South Africa,Newlands,144,146,South Africa,0
+551,Ireland,Zimbabwe,Ireland,"Bready Cricket Club, Magheramason, Bready",178,138,Ireland,1
+554,Zimbabwe,New Zealand,New Zealand,Seddon Park,200,202,New Zealand,0
+555,West Indies,Pakistan,Pakistan,"Queen's Park Oval, Port of Spain",124,127,Pakistan,0
+558,England,West Indies,West Indies,Eden Gardens,155,161,West Indies,0
+56,Zimbabwe,Pakistan,Pakistan,Rawalpindi Cricket Stadium,156,157,Pakistan,0
+561,India,England,England,Wankhede Stadium,177,181,England,0
+563,New Zealand,England,England,Pallekele International Cricket Stadium,148,149,England,0
+564,Sri Lanka,West Indies,Sri Lanka,Trent Bridge,192,177,Sri Lanka,1
+568,India,West Indies,India,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,195,124,India,1
+571,South Africa,England,England,Newlands,179,183,England,0
+574,South Africa,Australia,Australia,Kingsmead,80,81,Australia,0
+575,Afghanistan,Bangladesh,Bangladesh,Shere Bangla National Stadium,72,78,Bangladesh,0
+577,Zimbabwe,India,India,Harare Sports Club,140,144,India,0
+580,New Zealand,Bangladesh,Bangladesh,"Shere Bangla National Stadium, Mirpur",60,62,Bangladesh,0
+581,Pakistan,Australia,Australia,Perth Stadium,106,109,Australia,0
+590,Australia,England,England,The Rose Bowl,157,158,England,0
+592,India,England,England,Narendra Modi Stadium,124,130,England,0
+593,Afghanistan,West Indies,Afghanistan,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,147,106,Afghanistan,1
+595,Australia,New Zealand,Australia,Western Australia Cricket Association Ground,186,132,Australia,1
+596,Pakistan,New Zealand,Pakistan,AMI Stadium,183,80,Pakistan,1
+599,Afghanistan,West Indies,Afghanistan,"Vidarbha Cricket Association Stadium, Jamtha",123,117,Afghanistan,1
+60,Pakistan,West Indies,Pakistan,"Queen's Park Oval, Port of Spain",132,129,Pakistan,1
+600,Sri Lanka,India,India,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,82,84,India,0
+601,Pakistan,South Africa,Pakistan,Gaddafi Stadium,169,166,Pakistan,1
+602,South Africa,West Indies,South Africa,"National Cricket Stadium, St George's, Grenada",168,143,South Africa,1
+606,South Africa,India,South Africa,Trent Bridge,130,118,South Africa,1
+607,Australia,South Africa,Australia,Melbourne Cricket Ground,182,130,Australia,1
+608,India,Bangladesh,India,"R.Premadasa Stadium, Khettarama",176,159,India,1
+61,New Zealand,South Africa,South Africa,Kingsmead,86,87,South Africa,0
+610,South Africa,New Zealand,South Africa,St George's Park,179,146,South Africa,1
+611,Zimbabwe,Bangladesh,Bangladesh,Harare Sports Club,152,153,Bangladesh,0
+612,New Zealand,Sri Lanka,New Zealand,Bay Oval,182,179,New Zealand,1
+613,Australia,West Indies,West Indies,Kennington Oval,169,172,West Indies,0
+621,Australia,Pakistan,Pakistan,Harare Sports Club,183,187,Pakistan,0
+624,New Zealand,Pakistan,New Zealand,"Punjab Cricket Association IS Bindra Stadium, Mohali",180,158,New Zealand,1
+63,India,Australia,India,Kingsmead,188,173,India,1
+631,Bangladesh,Australia,Australia,Dubai International Cricket Stadium,73,78,Australia,0
+634,Pakistan,West Indies,Pakistan,National Stadium,205,123,Pakistan,1
+636,Zimbabwe,Bangladesh,Zimbabwe,Queens Sports Club,168,162,Zimbabwe,1
+645,Sri Lanka,Bangladesh,Sri Lanka,Zahur Ahmed Chowdhury Stadium,168,166,Sri Lanka,1
+646,Afghanistan,Zimbabwe,Afghanistan,"Shere Bangla National Stadium, Mirpur",197,169,Afghanistan,1
+647,Pakistan,England,Pakistan,"Trent Bridge, Nottingham",232,201,Pakistan,1
+655,Pakistan,Australia,Pakistan,Edgbaston,162,151,Pakistan,1
+656,Pakistan,Sri Lanka,Pakistan,New Wanderers Stadium,189,156,Pakistan,1
+659,New Zealand,Sri Lanka,Sri Lanka,Central Broward Regional Park Stadium Turf Ground,81,82,Sri Lanka,0
+66,Zimbabwe,Ireland,Ireland,Sylhet Stadium,163,164,Ireland,0
+661,Afghanistan,Zimbabwe,Afghanistan,Sheikh Zayed Stadium,193,148,Afghanistan,1
+664,Zimbabwe,West Indies,West Indies,"Sir Vivian Richards Stadium, North Sound",130,131,West Indies,0
+668,South Africa,Bangladesh,South Africa,Senwes Park,224,141,South Africa,1
+671,Afghanistan,Zimbabwe,Afghanistan,Sheikh Zayed Stadium,198,150,Afghanistan,1
+673,West Indies,Zimbabwe,West Indies,"Sir Vivian Richards Stadium, North Sound",158,117,West Indies,1
+679,West Indies,Pakistan,Pakistan,Dubai International Cricket Stadium,115,116,Pakistan,0
+68,Netherlands,Ireland,Ireland,"Zayed Cricket Stadium, Abu Dhabi",106,107,Ireland,0
+680,Pakistan,Australia,Pakistan,Edgbaston,167,144,Pakistan,1
+681,New Zealand,England,New Zealand,Kingsmead,164,159,New Zealand,1
+684,India,New Zealand,India,Bay Oval,163,156,India,1
+685,Bangladesh,Netherlands,Bangladesh,Himachal Pradesh Cricket Association Stadium,153,145,Bangladesh,1
+686,Pakistan,Zimbabwe,Pakistan,Harare Sports Club,179,160,Pakistan,1
+687,New Zealand,West Indies,New Zealand,Seddon Park,191,155,New Zealand,1
+689,Zimbabwe,Bangladesh,Bangladesh,"Shere Bangla National Stadium, Mirpur",144,148,Bangladesh,0
+690,England,Pakistan,England,"Headingley, Leeds",200,155,England,1
+696,South Africa,Pakistan,South Africa,Newlands,192,186,South Africa,1
+697,South Africa,India,India,"Punjab Cricket Association IS Bindra Stadium, Mohali",149,151,India,0
+698,Sri Lanka,New Zealand,New Zealand,Eden Park,115,116,New Zealand,0
+7,West Indies,Australia,Australia,"Beausejour Stadium, Gros Islet",150,153,Australia,0
+700,India,West Indies,West Indies,"Sabina Park, Kingston",190,194,West Indies,0
+701,Sri Lanka,Pakistan,Sri Lanka,Gaddafi Stadium,165,101,Sri Lanka,1
+703,South Africa,England,South Africa,Zahur Ahmed Chowdhury Stadium,196,193,South Africa,1
+705,India,Afghanistan,India,"Zayed Cricket Stadium, Abu Dhabi",210,144,India,1
+706,Afghanistan,Pakistan,Pakistan,Sharjah Cricket Stadium,137,138,Pakistan,0
+709,West Indies,Pakistan,Pakistan,National Stadium,153,154,Pakistan,0
+71,Bangladesh,West Indies,Bangladesh,"Shere Bangla National Stadium, Mirpur",211,175,Bangladesh,1
+710,India,Bangladesh,Bangladesh,Arun Jaitley Stadium,148,154,Bangladesh,0
+712,Ireland,Afghanistan,Afghanistan,Greater Noida Sports Complex Ground,165,171,Afghanistan,0
+717,England,New Zealand,England,Eden Park,184,152,England,1
+718,India,Australia,India,Shere Bangla National Stadium,159,86,India,1
+725,Zimbabwe,Australia,Australia,Harare Sports Club,151,154,Australia,0
+726,Pakistan,Sri Lanka,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",122,99,Pakistan,1
+730,South Africa,Australia,South Africa,Carrara Oval,108,87,South Africa,1
+733,Pakistan,South Africa,South Africa,Dubai International Cricket Stadium,98,99,South Africa,0
+734,New Zealand,India,India,Eden Park,132,135,India,0
+737,Pakistan,South Africa,Pakistan,Trent Bridge,149,142,Pakistan,1
+738,Sri Lanka,India,India,"R.Premadasa Stadium, Khettarama",152,153,India,0
+740,South Africa,Australia,Australia,"Brisbane Cricket Ground, Woolloongabba",157,161,Australia,0
+743,South Africa,New Zealand,New Zealand,Buffalo Park,165,169,New Zealand,0
+744,Zimbabwe,Bangladesh,Zimbabwe,Harare Sports Club,166,143,Zimbabwe,1
+745,Zimbabwe,Ireland,Ireland,"Bready Cricket Club, Magheramason",132,134,Ireland,0
+748,India,England,England,Old Trafford,165,169,England,0
+749,West Indies,South Africa,West Indies,"National Cricket Stadium, St George's, Grenada",167,146,West Indies,1
+750,New Zealand,West Indies,New Zealand,Bay Oval,243,124,New Zealand,1
+751,England,Australia,Australia,The Rose Bowl,145,146,Australia,0
+755,England,India,India,Narendra Modi Stadium,164,166,India,0
+756,West Indies,Afghanistan,West Indies,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,164,134,West Indies,1
+759,Pakistan,Bangladesh,Pakistan,Eden Gardens,201,146,Pakistan,1
+764,West Indies,South Africa,South Africa,New Wanderers Stadium,205,208,South Africa,0
+767,New Zealand,Bangladesh,New Zealand,Shere Bangla National Stadium,204,189,New Zealand,1
+768,New Zealand,Australia,New Zealand,Hagley Oval,184,131,New Zealand,1
+77,England,Pakistan,England,Dubai International Cricket Stadium,150,112,England,1
+771,Pakistan,Australia,Australia,Manuka Oval,150,151,Australia,0
+772,West Indies,South Africa,South Africa,Dubai International Cricket Stadium,143,144,South Africa,0
+776,Netherlands,Ireland,Netherlands,Himachal Pradesh Cricket Association Stadium,59,47,Netherlands,1
+780,West Indies,Australia,West Indies,"Kensington Oval, Bridgetown",160,146,West Indies,1
+781,New Zealand,Ireland,New Zealand,Trent Bridge,198,115,New Zealand,1
+783,England,South Africa,England,Edgbaston,118,90,England,1
+784,West Indies,India,India,"MA Chidambaram Stadium, Chepauk",181,182,India,0
+786,South Africa,England,England,Boland Park,146,147,England,0
+788,England,India,India,Subrata Roy Sahara Stadium,157,158,India,0
+789,New Zealand,Bangladesh,New Zealand,Bay Oval,194,167,New Zealand,1
+79,India,Bangladesh,India,Shere Bangla National Stadium,166,121,India,1
+790,Australia,Pakistan,Australia,Dubai International Cricket Stadium,168,74,Australia,1
+791,West Indies,Sri Lanka,Sri Lanka,Pallekele International Cricket Stadium,129,130,Sri Lanka,0
+792,Sri Lanka,New Zealand,New Zealand,Pallekele International Cricket Stadium,161,165,New Zealand,0
+793,Zimbabwe,Ireland,Ireland,"Castle Avenue, Dublin",152,153,Ireland,0
+794,New Zealand,India,New Zealand,New Wanderers Stadium,190,180,New Zealand,1
+797,South Africa,New Zealand,New Zealand,Westpac Stadium,147,148,New Zealand,0
+801,Australia,Sri Lanka,Sri Lanka,"Simonds Stadium, South Geelong",173,176,Sri Lanka,0
+806,Australia,Sri Lanka,Australia,"Kensington Oval, Bridgetown",168,87,Australia,1
+807,Afghanistan,India,India,"Beausejour Stadium, Gros Islet",115,116,India,0
+81,Bangladesh,India,India,Saurashtra Cricket Association Stadium,153,154,India,0
+810,Pakistan,Zimbabwe,Pakistan,Harare Sports Club,136,121,Pakistan,1
+812,Zimbabwe,Bangladesh,Bangladesh,Shere Bangla National Stadium,131,136,Bangladesh,0
+813,New Zealand,England,England,Westpac Stadium,139,143,England,0
+818,Pakistan,Bangladesh,Pakistan,"Beausejour Stadium, Gros Islet",172,151,Pakistan,1
+819,Afghanistan,Ireland,Afghanistan,Greater Noida Sports Complex Ground,233,205,Afghanistan,1
+820,Sri Lanka,Pakistan,Pakistan,R Premadasa Stadium,172,174,Pakistan,0
+821,Afghanistan,Ireland,Afghanistan,Dubai International Cricket Stadium,139,126,Afghanistan,1
+823,England,South Africa,South Africa,Newlands,134,135,South Africa,0
+824,West Indies,Ireland,West Indies,"Sabina Park, Kingston",96,85,West Indies,1
+829,South Africa,Sri Lanka,South Africa,"R Premadasa Stadium, Colombo",163,135,South Africa,1
+83,West Indies,England,England,Trent Bridge,172,173,England,0
+832,India,England,India,Kingsmead,218,200,India,1
+837,Pakistan,Australia,Australia,Harare Sports Club,116,117,Australia,0
+84,New Zealand,Australia,Australia,Eden Park,243,245,Australia,0
+843,Ireland,Netherlands,Netherlands,Hazelaarweg,158,159,Netherlands,0
+845,Bangladesh,Ireland,Bangladesh,"Civil Service Cricket Club, Stormont",190,119,Bangladesh,1
+848,Australia,West Indies,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",141,142,West Indies,0
+85,India,Australia,India,Melbourne Cricket Ground,184,157,India,1
+850,India,New Zealand,India,Greenfield International Stadium,67,61,India,1
+854,Sri Lanka,England,Sri Lanka,Pallekele International Cricket Stadium,169,150,Sri Lanka,1
+856,West Indies,New Zealand,West Indies,Central Broward Regional Park Stadium Turf Ground,209,153,West Indies,1
+858,Zimbabwe,India,India,Harare Sports Club,99,103,India,0
+871,Afghanistan,Bangladesh,Afghanistan,Rajiv Gandhi International Cricket Stadium,145,144,Afghanistan,1
+872,Australia,Pakistan,Australia,Melbourne Cricket Ground,127,125,Australia,1
+873,West Indies,Pakistan,Pakistan,Sheikh Zayed Stadium,103,108,Pakistan,0
+875,Afghanistan,Ireland,Afghanistan,"Bready Cricket Club, Magheramason",160,144,Afghanistan,1
+877,Sri Lanka,Australia,Australia,Dubai International Cricket Stadium,154,155,Australia,0
+879,New Zealand,India,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",126,79,New Zealand,1
+884,Zimbabwe,New Zealand,New Zealand,Harare Sports Club,123,127,New Zealand,0
+886,South Africa,Australia,South Africa,SuperSport Park,156,139,South Africa,1
+888,West Indies,England,England,Dubai International Cricket Stadium,55,56,England,0
+890,India,South Africa,India,The Wanderers Stadium,203,175,India,1
+891,Australia,Sri Lanka,Australia,Adelaide Oval,233,99,Australia,1
+896,West Indies,England,West Indies,Pallekele International Cricket Stadium,179,164,West Indies,1
+9,India,England,India,M Chinnaswamy Stadium,202,127,India,1
+90,Australia,South Africa,Australia,The Wanderers Stadium,196,89,Australia,1
+904,South Africa,Australia,Australia,Melbourne Cricket Ground,101,102,Australia,0
+908,Zimbabwe,Ireland,Zimbabwe,"Bready Cricket Club, Magheramason, Bready",124,119,Zimbabwe,1
+909,Bangladesh,Australia,Australia,Newlands,123,124,Australia,0
+910,Australia,South Africa,South Africa,New Wanderers Stadium,147,148,South Africa,0
+911,Sri Lanka,New Zealand,New Zealand,Pallekele International Cricket Stadium,174,175,New Zealand,0
+913,England,India,India,County Ground,198,201,India,0
+914,Australia,India,Australia,"Brisbane Cricket Ground, Woolloongabba",158,169,India,0
+915,India,Australia,India,Manuka Oval,161,150,India,1
+917,Afghanistan,Ireland,Afghanistan,"Rajiv Gandhi International Cricket Stadium, Dehradun",278,194,Afghanistan,1
+918,Bangladesh,Pakistan,Pakistan,Gaddafi Stadium,141,142,Pakistan,0
+919,South Africa,Bangladesh,South Africa,Shere Bangla National Stadium,148,96,South Africa,1
+920,England,Afghanistan,England,Feroz Shah Kotla,142,127,England,1
+923,West Indies,India,West Indies,"Kensington Oval, Bridgetown",169,155,West Indies,1
+927,New Zealand,Sri Lanka,Sri Lanka,Westpac Stadium,162,62,New Zealand,1
+930,Bangladesh,Australia,Australia,M Chinnaswamy Stadium,156,157,Australia,0
+931,Sri Lanka,Pakistan,Sri Lanka,Gaddafi Stadium,182,147,Sri Lanka,1
+932,Australia,Pakistan,Australia,"Beausejour Stadium, Gros Islet",191,157,Australia,1
+934,India,Ireland,India,"The Village, Malahide",208,132,India,1
+937,South Africa,Sri Lanka,South Africa,SuperSport Park,126,107,South Africa,1
+939,Netherlands,Zimbabwe,Zimbabwe,Sylhet Stadium,140,146,Zimbabwe,0
+94,India,Sri Lanka,Sri Lanka,Maharashtra Cricket Association Stadium,101,105,Sri Lanka,0
+940,New Zealand,India,India,Eden Park,203,204,India,0
+941,Pakistan,Zimbabwe,Pakistan,Harare Sports Club,165,141,Pakistan,1
+942,Sri Lanka,New Zealand,New Zealand,Eden Park,142,147,New Zealand,0
+943,West Indies,England,England,Kennington Oval,169,173,England,0
+944,Australia,Pakistan,Pakistan,New Wanderers Stadium,164,165,Pakistan,0
+945,India,Pakistan,Pakistan,M Chinnaswamy Stadium,133,134,Pakistan,0
+947,Sri Lanka,Pakistan,Sri Lanka,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",132,95,Sri Lanka,1
+95,New Zealand,Bangladesh,New Zealand,Eden Gardens,145,70,New Zealand,1
+950,Netherlands,Ireland,Netherlands,Hazelaarweg,144,140,Netherlands,1
+952,Pakistan,Australia,Pakistan,Harare Sports Club,194,149,Pakistan,1
+957,South Africa,Australia,Australia,R Premadasa Stadium,146,147,Australia,0
+959,India,New Zealand,New Zealand,AMI Stadium,162,166,New Zealand,0
+960,Ireland,Netherlands,Ireland,Dubai International Cricket Stadium,151,86,Ireland,1
+966,South Africa,West Indies,South Africa,Kingsmead,195,126,South Africa,1
+971,West Indies,New Zealand,West Indies,Central Broward Regional Park Stadium Turf Ground,177,116,West Indies,1
+977,England,New Zealand,New Zealand,Zahur Ahmed Chowdhury Stadium,172,52,England,1
+981,New Zealand,Pakistan,Pakistan,Sharjah Cricket Stadium,134,135,Pakistan,0
+985,Pakistan,New Zealand,New Zealand,Seddon Park,168,171,New Zealand,0
+987,Netherlands,Sri Lanka,Sri Lanka,Zahur Ahmed Chowdhury Stadium,39,40,Sri Lanka,0
+989,Australia,Pakistan,Pakistan,Dubai International Cricket Stadium,108,109,Pakistan,0
+99,Bangladesh,Sri Lanka,Bangladesh,Shere Bangla National Stadium,147,124,Bangladesh,1
+991,India,England,England,Narendra Modi Stadium,156,158,England,0
+992,Bangladesh,Sri Lanka,Sri Lanka,Sharjah Cricket Stadium,171,172,Sri Lanka,0
+993,West Indies,England,England,"Warner Park, St Kitts",71,72,England,0
+995,India,South Africa,South Africa,SuperSport Park,188,189,South Africa,0
+998,Australia,South Africa,South Africa,New Wanderers Stadium,166,168,South Africa,0
