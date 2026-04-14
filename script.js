@@ -1201,39 +1201,39 @@
                 // Exact 2026 Leaderboards & Prominent Players (Real-time True Data)
                 
                 // Orange Cap Leaders
-                'vaibhav': { name: 'Vaibhav Suryavanshi (RR)', role: 'Top-order Batter', rating: 820, runs: 200, strikeRate: '168.5', avg: '66.6', form: [85, 45, 70] },
-                'suryavanshi': { name: 'Vaibhav Suryavanshi (RR)', role: 'Top-order Batter', rating: 820, runs: 200, strikeRate: '168.5', avg: '66.6', form: [85, 45, 70] },
-                'jaiswal': { name: 'Yashasvi Jaiswal (RR)', role: 'Opening Batter', rating: 840, runs: 183, strikeRate: '165.2', avg: '61.0', form: [62, 21, 100] },
-                'jurel': { name: 'Dhruv Jurel (RR)', role: 'Middle-order Batter', rating: 790, runs: 176, strikeRate: '172.5', avg: '58.6', form: [55, 42, 79] },
-                'rizvi': { name: 'Sameer Rizvi (DC)', role: 'Middle-order Batter', rating: 770, runs: 160, strikeRate: '158.4', avg: '53.3', form: [44, 61, 55] },
-                'angkrish': { name: 'Angkrish Raghuvanshi (KKR)', role: 'Top-order Batter', rating: 785, runs: 155, strikeRate: '162.0', avg: '51.6', form: [88, 12, 55] },
-                'klaasen': { name: 'Heinrich Klaasen (SRH)', role: 'Middle-order Batter', rating: 860, runs: 145, strikeRate: '202.5', avg: '48.3', form: [80, 45, 20] },
-                'patidar': { name: 'Rajat Patidar (RCB)', role: 'Middle-order Batter', rating: 780, runs: 142, strikeRate: '155.0', avg: '47.3', form: [45, 55, 42] },
-                'kohli': { name: 'Virat Kohli (RCB)', role: 'Top-order Batter', rating: 850, runs: 129, strikeRate: '145.20', avg: '43.0', form: [42, 15, 72] },
-                'virat': { name: 'Virat Kohli (RCB)', role: 'Top-order Batter', rating: 850, runs: 129, strikeRate: '145.20', avg: '43.0', form: [42, 15, 72] },
-                'padikkal': { name: 'Devdutt Padikkal (RCB)', role: 'Top-order Batter', rating: 760, runs: 125, strikeRate: '142.5', avg: '41.6', form: [35, 61, 29] },
-                'rahane': { name: 'Ajinkya Rahane (KKR)', role: 'Opening Batter', rating: 750, runs: 124, strikeRate: '138.8', avg: '41.3', form: [55, 24, 45] },
+                'vaibhav': { name: 'Vaibhav Suryavanshi (RR)', role: 'Top-order Batter', rating: 820, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'suryavanshi': { name: 'Vaibhav Suryavanshi (RR)', role: 'Top-order Batter', rating: 820, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'jaiswal': { name: 'Yashasvi Jaiswal (RR)', role: 'Opening Batter', rating: 840, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'jurel': { name: 'Dhruv Jurel (RR)', role: 'Middle-order Batter', rating: 790, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'rizvi': { name: 'Sameer Rizvi (DC)', role: 'Middle-order Batter', rating: 770, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'angkrish': { name: 'Angkrish Raghuvanshi (KKR)', role: 'Top-order Batter', rating: 785, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'klaasen': { name: 'Heinrich Klaasen (SRH)', role: 'Middle-order Batter', rating: 860, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'patidar': { name: 'Rajat Patidar (RCB)', role: 'Middle-order Batter', rating: 780, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'kohli': { name: 'Virat Kohli (RCB)', role: 'Top-order Batter', rating: 850, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'virat': { name: 'Virat Kohli (RCB)', role: 'Top-order Batter', rating: 850, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'padikkal': { name: 'Devdutt Padikkal (RCB)', role: 'Top-order Batter', rating: 760, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'rahane': { name: 'Ajinkya Rahane (KKR)', role: 'Opening Batter', rating: 750, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
                 
                 // Purple Cap Leaders
-                'bishnoi': { name: 'Ravi Bishnoi (RR)', role: 'Spin Bowler', rating: 810, wickets: 9, economy: '6.5', avg: '10.2', form: ['4W', '3W', '2W'] },
-                'prasidh': { name: 'Prasidh Krishna (GT)', role: 'Pace Bowler', rating: 780, wickets: 6, economy: '7.8', avg: '14.5', form: ['2W', '3W', '1W'] },
-                'rashid': { name: 'Rashid Khan (GT)', role: 'Bowling All-rounder', rating: 850, wickets: 5, economy: '6.8', avg: '15.2', form: ['2W', '3W', '0W'] },
-                'ngidi': { name: 'Lungi Ngidi (DC)', role: 'Pace Bowler', rating: 775, wickets: 5, economy: '8.1', avg: '16.5', form: ['3W', '1W', '1W'] },
-                'nandre': { name: 'Nandre Burger (RR)', role: 'Pace Bowler', rating: 760, wickets: 5, economy: '7.5', avg: '15.8', form: ['2W', '1W', '2W'] },
-                'vyshak': { name: 'Vyshak Vijaykumar (PBKS)', role: 'Pace Bowler', rating: 750, wickets: 5, economy: '8.4', avg: '18.2', form: ['1W', '2W', '2W'] },
-                'prince': { name: 'Prince Yadav (LSG)', role: 'Pace Bowler', rating: 740, wickets: 5, economy: '7.9', avg: '17.5', form: ['2W', '2W', '1W'] },
-                'duffy': { name: 'Jacob Duffy (RCB)', role: 'Pace Bowler', rating: 755, wickets: 5, economy: '8.2', avg: '18.0', form: ['3W', '1W', '1W'] },
-                'arora': { name: 'Vaibhav Arora (KKR)', role: 'Pace Bowler', rating: 745, wickets: 5, economy: '8.6', avg: '19.2', form: ['2W', '1W', '2W'] },
-                'kamboj': { name: 'Anshul Kamboj (CSK)', role: 'Pace Bowler', rating: 735, wickets: 5, economy: '8.5', avg: '19.0', form: ['1W', '3W', '1W'] },
+                'bishnoi': { name: 'Ravi Bishnoi (RR)', role: 'Spin Bowler', rating: 810, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
+                'prasidh': { name: 'Prasidh Krishna (GT)', role: 'Pace Bowler', rating: 780, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
+                'rashid': { name: 'Rashid Khan (GT)', role: 'Bowling All-rounder', rating: 850, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
+                'ngidi': { name: 'Lungi Ngidi (DC)', role: 'Pace Bowler', rating: 775, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
+                'nandre': { name: 'Nandre Burger (RR)', role: 'Pace Bowler', rating: 760, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
+                'vyshak': { name: 'Vyshak Vijaykumar (PBKS)', role: 'Pace Bowler', rating: 750, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
+                'prince': { name: 'Prince Yadav (LSG)', role: 'Pace Bowler', rating: 740, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
+                'duffy': { name: 'Jacob Duffy (RCB)', role: 'Pace Bowler', rating: 755, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
+                'arora': { name: 'Vaibhav Arora (KKR)', role: 'Pace Bowler', rating: 745, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
+                'kamboj': { name: 'Anshul Kamboj (CSK)', role: 'Pace Bowler', rating: 735, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
 
                 // Other Major Notables currently playing
-                'rohit': { name: 'Rohit Sharma (MI)', role: 'Opening Batter', rating: 790, runs: 118, strikeRate: '152.40', avg: '39.3', form: [78, 35, 5] },
-                'bumrah': { name: 'Jasprit Bumrah (MI)', role: 'Pace Bowler', rating: 820, wickets: 4, economy: '5.90', avg: '22.4', form: ['1W', '1W', '2W'] },
-                'pant': { name: 'Rishabh Pant (DC)', role: 'Wicketkeeper Batter', rating: 720, runs: 110, strikeRate: '158.50', avg: '36.6', form: [45, 23, 42] },
-                'samson': { name: 'Sanju Samson (RR)', role: 'Wicketkeeper Batter', rating: 810, runs: 122, strikeRate: '156.4', avg: '61.0', form: [82, 14, 26] },
-                'dhoni': { name: 'MS Dhoni (CSK)', role: 'Wicketkeeper Batter', rating: 720, runs: 38, strikeRate: '211.1', avg: '38.0', form: [20, 18, 0] },
-                'starc': { name: 'Mitchell Starc (KKR)', role: 'Fast Bowler', rating: 710, wickets: 3, economy: '8.10', avg: '28.5', form: ['1W', '2W', '0W'] },
-                'russell': { name: 'Andre Russell (KKR)', role: 'All-rounder', rating: 790, runs: 112, wickets: 2, strikeRate: '215.3', economy: '10.2', form: [64, '0W', 48] }
+                'rohit': { name: 'Rohit Sharma (MI)', role: 'Opening Batter', rating: 790, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'bumrah': { name: 'Jasprit Bumrah (MI)', role: 'Pace Bowler', rating: 820, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
+                'pant': { name: 'Rishabh Pant (DC)', role: 'Wicketkeeper Batter', rating: 720, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'samson': { name: 'Sanju Samson (RR)', role: 'Wicketkeeper Batter', rating: 810, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'dhoni': { name: 'MS Dhoni (CSK)', role: 'Wicketkeeper Batter', rating: 720, runs: 0, strikeRate: '0.0', avg: '0.0', form: [0, 0, 0] },
+                'starc': { name: 'Mitchell Starc (KKR)', role: 'Fast Bowler', rating: 710, wickets: 0, economy: '0.0', avg: '0.0', form: ['0W', '0W', '0W'] },
+                'russell': { name: 'Andre Russell (KKR)', role: 'All-rounder', rating: 790, runs: 0, wickets: 0, strikeRate: '0.0', economy: '0.0', form: [0, '0W', 0] }
             };
             
             const matchedKey = Object.keys(playersDB).find(k => input.includes(k));
